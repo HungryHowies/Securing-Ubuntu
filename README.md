@@ -33,7 +33,7 @@ visudo (this will open the sudoers file /etc/sudoers)
 fred ALL=(ALL) ALL
 ```
 2) Save the file (:wq)
-3) 
+
 Disable Root SSH Access & Change Default Port
 
 Edit /etc/ssh/sshd_config and edit the following:
